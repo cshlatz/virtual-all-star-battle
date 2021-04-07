@@ -1,0 +1,13 @@
+.objectiveitem {
+    display: flex;
+    flex-direction: row;
+}
+
+.objectiveitem__secondary {
+    display: flex;
+    flex-direction: column;
+}
+
+.objectiveitem__secondary input[name="par"] {
+    width: 50%;
+}

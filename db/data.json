@@ -1,0 +1,106 @@
+[
+    {
+        "name": "Blackout",
+        "game_id": "blackout",
+        "year_made": 1980
+    },
+    {
+        "name": "Hardbody",
+        "game_id": "hardbody",
+        "year_made": 1987
+    },
+    {
+        "name": "AC/DC",
+        "game_id": "acdc",
+        "year_made": 2012
+    },
+    {
+        "name": "The Walking Dead",
+        "game_id": "walkingdead",
+        "year_made": 2014
+    },
+    {
+        "name": "Rick & Morty",
+        "game_id": "rickandmorty",
+        "year_made": 2020
+    },
+    {
+        "name": "Genesis",
+        "game_id": "genesis",
+        "year_made": 1986
+    },
+    {
+        "name": "Medusa",
+        "game_id": "medusa",
+        "year_made": 1981
+    },
+    {
+        "name": "Attack From Mars",
+        "game_id": "attackfrommars",
+        "year_made": 1995
+    },
+    {
+        "name": "Road Show",
+        "game_id": "roadshow",
+        "year_made": 1994
+    },
+    {
+        "name": "Indianapolis 500",
+        "game_id": "indianapolis500",
+        "year_made": 1995
+    },
+    {
+        "name": "Iron Maiden",
+        "game_id": "ironmaiden",
+        "year_made": 2018
+    },
+    {
+        "name": "Avengers: Infinity Quest",
+        "game_id": "avengers",
+        "year_made": 2020
+    },
+    {
+        "name": "Black Knight",
+        "game_id": "blackknight",
+        "year_made": 1980
+    },
+    {
+        "name": "Eight Ball Deluxe",
+        "game_id": "eightballdeluxe",
+        "year_made": 1984
+    },
+    {
+        "name": "Jurassic Park",
+        "game_id": "jurassicpark2019",
+        "year_made": 2019
+    },
+    {
+        "name": "Surf 'n Safari",
+        "game_id": "surfnsafari",
+        "year_made": 1991
+    },
+    {
+        "name": "Hot Tip",
+        "game_id": "hottip",
+        "year_made": 1977
+    },
+    {
+        "name": "Laser War",
+        "game_id": "laserwar",
+        "year_made": 1987
+    },
+    {
+        "name": "Joker Poker",
+        "game_id": "jokerpoker",
+        "year_made": 1978
+    },
+    {
+        "name": "Harlem Globetrotters",
+        "game_id": "harlemglobetrotters",
+        "year_made": 1979
+    },
+    {
+        "name": "Alien Poker",
+        "game_id": "alienpoker",
+        "year_made": 1980
+    }

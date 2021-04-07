@@ -1,0 +1,38 @@
+.games__gamelist {
+    display: flex;
+    flex-direction: column;
+}
+
+.games__game {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.games__game--name {
+    overflow: hidden;
+}
+
+.games__game--name, .games__game--id {
+    white-space: nowrap;
+    padding-right: 15px;
+    text-align: center;
+}
+
+.button__delete {
+    width: 10%;
+}
+
+.gamelist {
+
+}
+
+.gamelist__head {
+    display: flex;
+    flex-direction: row;
+    font-weight: bold;
+}
+
+.gamelist__head div {
+    width: 50%;
+}

@@ -1,0 +1,41 @@
+.gamemenuitem {
+    display: flex;
+    margin: 15px;
+}
+
+.gamemenuitem__info {
+    
+}
+
+.gamemenuitem__primary-info {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-left: 15px;
+}
+
+.gamemenuitem__secondary-info {
+    display: flex;
+    flex-direction: row;
+    font-size: .75em;
+    padding-left: 15px;
+}
+
+.gameedit {
+    display: flex;
+    flex-direction: row;
+}
+
+.gameedit__form {
+    display: flex;
+    flex-direction: column;
+}
+
+.gameedit__buttons {
+    display: flex;
+    flex-direction: column;
+}
+
+.gameedit__buttons button {
+    margin: 5px;
+}

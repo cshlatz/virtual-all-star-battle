@@ -1,0 +1,27 @@
+.options {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+.options__menu--open {
+    display: flex;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 65%;
+    z-index: 99;
+    background-color: white;
+    transition: all 1s ease;
+    border-right: 5px solid #4a5071;
+}
+
+.options__menu--closed {
+    display: none;
+}
+
+.options__settings {
+    padding-left: 20px;
+    wrap: nowrap;
+}

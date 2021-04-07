@@ -1,0 +1,380 @@
+[
+{
+    "game_id": "surfnsafari",
+    "objective": "Two columns or two rows",
+    "score": false,
+    "par": 4
+},
+{
+    "game_id": "surfnsafari",
+    "objective": "10,000,000",
+    "score": true,
+    "par": 4
+},
+{
+    "game_id": "surfnsafari",
+    "objective": "Start multiball",
+    "score": false,
+    "par": 3
+},
+{
+    "game_id": "blackout",
+    "objective": "Blackout",
+    "score": false,
+    "par": 4
+},
+{
+    "game_id": "blackout",
+    "objective": "200,000",
+    "score": true,
+    "par": 4
+},
+{
+    "game_id": "blackout",
+    "objective": "Finish any set of lights",
+    "score": false,
+    "par": 4
+},
+{
+    "game_id": "hardbody",
+    "objective": "Finish either a row or column of stations",
+    "score": false,
+    "par": 4
+},
+{
+    "game_id": "hardbody",
+    "objective": "400,000",
+    "score": true,
+    "par": 4
+},
+{
+    "game_id": "hardbody",
+    "objective": "Go underneath either ramp",
+    "score": false,
+    "par": 4
+},
+{
+    "game_id": "acdc",
+    "objective": "Start any multiball",
+    "score": false,
+    "par": 4
+},
+{
+    "game_id": "acdc",
+    "objective": "14,000,000",
+    "score": true,
+    "par": 4
+},
+{
+    "game_id": "acdc",
+    "objective": "Start a double or triple multiball",
+    "score": false,
+    "par": 5
+},
+{
+    "game_id": "walkingdead",
+    "objective": "Hit a crossbow shot",
+    "score": false,
+    "par": 4
+},
+{
+    "game_id": "walkingdead",
+    "objective": "32,000,000",
+    "score": true,
+    "par": 5
+},
+{
+    "game_id": "walkingdead",
+    "objective": "Kill 12 zombies",
+    "score": false,
+    "par": 4
+},
+{
+    "game_id": "rickandmorty",
+    "objective": "Finish a mode (green stamp)",
+    "score": false,
+    "par": 4
+},
+{
+    "game_id": "rickandmorty",
+    "objective": "6,000,000",
+    "score": true,
+    "par": 4
+},
+{
+    "game_id": "rickandmorty",
+    "objective": "Meeseeks multiball",
+    "score": false,
+    "par": 4
+},
+{
+    "game_id": "genesis",
+    "objective": "Bring the Sex Robot to life",
+    "score": false,
+    "par": 5
+},
+{
+    "game_id": "genesis",
+    "objective": "300,000",
+    "score": true,
+    "par": 4
+},
+{
+    "game_id": "genesis",
+    "objective": "Two body parts",
+    "score": false,
+    "par": 4
+},
+{
+    "game_id": "medusa",
+    "objective": "Close the zipper flippers twice",
+    "score": false,
+    "par": 3
+},
+{
+    "game_id": "medusa",
+    "objective": "120,000",
+    "score": true,
+    "par": 4
+},
+{
+    "game_id": "medusa",
+    "objective": "One set of drop targets on the lower playfield",
+    "score": false,
+    "par": 3
+},
+{
+    "game_id": "attackfrommars",
+    "objective": "Start Martian Attack (not multiball)",
+    "score": false,
+    "par": 4
+},
+{
+    "game_id": "attackfrommars",
+    "objective": "Kill two saucers",
+    "score": false,
+    "par": 4
+},
+{
+    "game_id": "attackfrommars",
+    "objective": "1,200,000,000",
+    "score": true,
+    "par": 4
+},
+{
+    "game_id": "roadshow",
+    "objective": "Travel to a city west of the starting set",
+    "score": false,
+    "par": 4
+},
+{
+    "game_id": "roadshow",
+    "objective": "100,000,000",
+    "score": true,
+    "par": 4
+},
+{
+    "game_id": "roadshow",
+    "objective": "Clobber the idiot with a rock (left plunger)",
+    "score": false,
+    "par": 4
+},
+{
+    "game_id": "indianapolis500",
+    "objective": "Two turbo loop combos (must award points each time)",
+    "score": false,
+    "par": 4
+},
+{
+    "game_id": "indianapolis500",
+    "objective": "Collect two souveniors (rollovers to left ramp)",
+    "score": false,
+    "par": 4
+},
+{
+    "game_id": "indianapolis500",
+    "objective": "120,000,000",
+    "score": true,
+    "par": 4
+},
+{
+    "game_id": "ironmaiden",
+    "objective": "Start any non-mode multiball",
+    "score": false,
+    "par": 4
+},
+{
+    "game_id": "ironmaiden",
+    "objective": "Start loop mode",
+    "score": false,
+    "par": 4
+},
+{
+    "game_id": "ironmaiden",
+    "objective": "60,000,000",
+    "score": true,
+    "par": 4
+},
+{
+    "game_id": "avengers",
+    "objective": "Start Gamma Ray hurry-up",
+    "score": false,
+    "par": 4
+},
+{
+    "game_id": "avengers",
+    "objective": "Collect any infinity gem",
+    "score": false,
+    "par": 4
+},
+{
+    "game_id": "avengers",
+    "objective": "30,000,000",
+    "score": true,
+    "par": 4
+},
+{
+    "game_id": "blackknight",
+    "objective": "Start multiball",
+    "score": false,
+    "par": 4
+},
+{
+    "game_id": "blackknight",
+    "objective": "100,000",
+    "score": true,
+    "par": 4
+},
+{
+    "game_id": "blackknight",
+    "objective": "Complete any set three times (all lights lit)",
+    "score": false,
+    "par": 4
+},
+{
+    "game_id": "eightballdeluxe",
+    "objective": "Hit the eight ball",
+    "score": false,
+    "par": 3
+},
+{
+    "game_id": "eightballdeluxe",
+    "objective": "Get 5X bonus",
+    "score": false,
+    "par": 4
+},
+{
+    "game_id": "eightballdeluxe",
+    "objective": "325,000",
+    "score": true,
+    "par": 4
+},
+{
+    "game_id": "jurassicpark2019",
+    "objective": "Finish a rescue mode",
+    "score": false,
+    "par": 4
+},
+{
+    "game_id": "jurassicpark2019",
+    "objective": "Start CHAOS multiball",
+    "score": false,
+    "par": 4
+},
+{
+    "game_id": "jurassicpark2019",
+    "objective": "80,000,000",
+    "score": true,
+    "par": 5
+},
+{
+    "game_id": "hottip",
+    "objective": "40,000",
+    "score": true,
+    "par": 4
+},
+{
+    "game_id": "hottip",
+    "objective": "Maximum bonus (2X and all lights lit)",
+    "score": false,
+    "par": 5
+},
+{
+    "game_id": "hottip",
+    "objective": "Collect captive ball award",
+    "score": false,
+    "par": 4
+},
+{
+    "game_id": "laserwar",
+    "objective": "Start red or blue multiball",
+    "score": false,
+    "par": 4
+},
+{
+    "game_id": "laserwar",
+    "objective": "Start yellow multiball",
+    "score": false,
+    "par": 4
+},
+{
+    "game_id": "laserwar",
+    "objective": "1,000,000",
+    "score": true,
+    "par": 5
+},
+{
+    "game_id": "jokerpoker",
+    "objective": "Collect the 5,000 bonus (any ball)",
+    "score": false,
+    "par": 4
+},
+{
+    "game_id": "jokerpoker",
+    "objective": "All rollovers",
+    "score": false,
+    "par": 4
+},
+{
+    "game_id": "jokerpoker",
+    "objective": "200,000",
+    "score": true,
+    "par": 5
+},
+{
+    "game_id": "harlemglobetrotters",
+    "objective": "5X bonus",
+    "score": false,
+    "par": 4
+},
+{
+    "game_id": "harlemglobetrotters",
+    "objective": "Collect a super bonus",
+    "score": false,
+    "par": 4
+},
+{
+    "game_id": "harlemglobetrotters",
+    "objective": "50,000",
+    "score": true,
+    "par": 4
+},
+{
+    "game_id": "alienpoker",
+    "objective": "Light 4X Royal Flush",
+    "score": false,
+    "par": 4
+},
+{
+    "game_id": "alienpoker",
+    "objective": "5X Bonus (blue lights)",
+    "score": false,
+    "par": 4
+},
+{
+    "game_id": "alienpoker",
+    "objective": "200,000",
+    "score": true,
+    "par": 4
+}
+]
